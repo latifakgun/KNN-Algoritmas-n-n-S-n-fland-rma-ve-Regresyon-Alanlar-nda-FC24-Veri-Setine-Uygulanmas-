@@ -1,0 +1,1 @@
+# KNN-Algoritmas-n-n-S-n-fland-rma-ve-Regresyon-Alanlar-nda-FC24-Veri-Setine-Uygulanmas-
