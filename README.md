@@ -35,7 +35,7 @@ Modelin başarısını artırmak ve "Data Leakage" (Veri Sızıntısı) sorununu
 
 ## 🛠️ Kullanılan Özellikler (Features)
 
-Modeli eğitirken "Boyutluluk Laneti"nden (Curse of Dimensionality) kaçınmak için sadece sonucu en çok etkileyen 12 temel özellik seçilmiştir:
+Modeli eğitirken "Boyutluluk Laneti"nden (Curse of Dimensionality) kaçınmak için sadece sonucu en çok etkileyen 9 temel özellik seçilmiştir:
 
 * **Fiziksel/Teknik:** `Pace`, `Shooting`, `Passing`, `Dribbling`, `Defending`, `Physic`
 * **Mental/Diğer:** `Age`, `Reactions`, `Ball Control`
